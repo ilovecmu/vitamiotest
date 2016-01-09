@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">视频播放器</string>
+
+    <string name="title_section1">网络视频</string>
+    <string name="title_section2">本地截图</string>
+    <string name="title_section3">设置</string>
+
+    <string name="setting_url">地址:</string>
+    <string name="setting_username">用户名:</string>
+    <string name="setting_passwd">密码:</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+
+</resources>
